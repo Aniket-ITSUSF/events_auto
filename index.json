@@ -1,0 +1,12 @@
+[
+     {
+        "eventId": "aniket_testing_1",
+        "title": "Arkar Session",
+        "description": "Let’s kick things off",
+        "startDate": "2025-07-01T16:00:00.000Z",
+        "endDate": "2025-07-01T17:00:00.000Z",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "image": "https://placehold.co/600x400"
+    }
+]
